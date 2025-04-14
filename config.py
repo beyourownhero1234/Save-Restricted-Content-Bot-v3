@@ -13,9 +13,7 @@ INST_COOKIES = """
 # wtite up here insta cookies
 """
 
-YTUB_COOKIES = """
-# write here yt cookies
-"""
+YTUB_COOKIES = """https://curl.haxx.se/rfc/cookie_spec.html"""
 
 API_ID = os.getenv("API_ID", "")
 API_HASH = os.getenv("API_HASH", "")
